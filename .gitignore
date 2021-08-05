@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#secret
+config.py
+
+#DS Store Apple
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
