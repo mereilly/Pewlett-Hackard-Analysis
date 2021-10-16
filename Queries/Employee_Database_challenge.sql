@@ -67,3 +67,4 @@ order by em.emp_no;
 
 
 
+-- export table called mentorship_eligibility to Data/mentorship_eligibilty.csv
