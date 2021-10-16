@@ -18,12 +18,11 @@ One major issue was making sure that any constraints added for unique values in 
 
 
 ## Summary: 
-    - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-    After realizing we needed to focus our search to active employees going to retire soon, still the results were high (depending on how large the company is, and in our case it's not large enough for 90, 000+ to be leaving and there not be an issue).So consider which roles, how many, and what kind (e.g. how many managementroles). Considering these:   
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+After realizing we needed to focus our search to active employees going to retire soon, still the results were high (depending on how large the company is, and in our case it's not large enough for 90, 000+ to be leaving and there not be an issue).So consider which roles, how many, and what kind (e.g. how many managementroles). Consider the following:   
     
 ![Screen Shot 2021-10-16 at 12 55 15 PM](https://user-images.githubusercontent.com/82982952/137595838-468ff934-d1d4-4def-936e-2621b83ffb37.png)
-
-We can see that 
     
-    - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-     The problem is that we seem to have about 90, 000 employees eligible to accept retirement under the two conditions of tenure and age, but in contrast we only have around 1, 500 are eligible for potential mentorship. So een if all eligble for mentorship acepted, there's still a large gap of unaccounted for roles. So internally, there doesn't see to be enough people to fill the gap, unless we reconsider parameters for mentorship elegibility.
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The problem is that we seem to have about 90, 000 employees eligible to accept retirement under the two conditions of tenure and age, but in contrast we only have around 1, 500 are eligible for potential mentorship. So een if all eligble for mentorship acepted, there's still a large gap of unaccounted for roles. So internally, there doesn't see to be enough people to fill the gap, unless we reconsider parameters for mentorship elegibility.
