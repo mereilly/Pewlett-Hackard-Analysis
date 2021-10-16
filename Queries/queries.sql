@@ -41,3 +41,16 @@ SELECT * FROM retirement_info;
 
 -- then exporting this new table retirement_info that we generated to retirement_info.csv
 
+
+--inoder to evaluate the retirement info on the lines of the dept too by emp_no we need to make a new table
+DROP TABLE retirement_info;
+
+-- Now create new table for retiring employees
+SELECT emp_no, first_name, last_name
+INTO retirement_info
+FROM employees
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
+-- Check the table
+SELECT * FROM retirement_info;
+
